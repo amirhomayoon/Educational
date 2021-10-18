@@ -1,7 +1,10 @@
-# 🚀 Education
-## لینک منابع آموزشی
-شما هم اضافه کنید
+<h1 align='center'>🚀 Education</h1>
+<p align='center'>
+لینک منابع آموزشی
+</p>
 
+<h1 align='center'><i>شما هم اضافه کنید !</i></h1>
+<hr/>
 
 
 
