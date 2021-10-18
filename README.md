@@ -24,4 +24,4 @@
 - https://www.youtube.com/watch?v=H5p7cQYprzc&list=PL3Y-E4YSE4wZKh44sCtw8grxC5lopedHF
 - https://www.youtube.com/watch?v=i81Mopbyg0w&list=PLbtjX995c0WqWEq7QZd04JKCfMZl5asVZ
 - https://www.youtube.com/watch?v=qUBEI8N3sYw&list=PLbtjX995c0WqGWNjkm1WKUizqUWMB5gJq
-- [آموزش فرونت و جنگو](https://www.downloadha.com/software/ytd-youtube-video-downloader/)
+- [آموزش فرونت و جنگو](https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw)
