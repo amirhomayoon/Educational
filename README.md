@@ -25,3 +25,7 @@
 - https://www.youtube.com/watch?v=i81Mopbyg0w&list=PLbtjX995c0WqWEq7QZd04JKCfMZl5asVZ
 - https://www.youtube.com/watch?v=qUBEI8N3sYw&list=PLbtjX995c0WqGWNjkm1WKUizqUWMB5gJq
 - [آموزش فرونت و جنگو](https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw)
+
+
+## 📚 Books sound and Pdf 📖
+-
