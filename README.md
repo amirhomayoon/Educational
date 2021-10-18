@@ -32,3 +32,6 @@
 
 ## 📚 Books sound and Pdf 📖
 -
+## 🥰🌷🧠Life🙏
+- [صحر خیز باشید](https://www.youtube.com/watch?v=dZvVHtcHkfs)
+
