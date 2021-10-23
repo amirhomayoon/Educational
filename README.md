@@ -29,7 +29,9 @@
 - https://www.youtube.com/watch?v=qUBEI8N3sYw&list=PLbtjX995c0WqGWNjkm1WKUizqUWMB5gJq
 - [آموزش فرونت و جنگو](https://www.youtube.com/channel/UCKSIjrrKLYi9N7cqREeENlw)
 
-
+## Arch and Design Pattern
+- [قبل از شروع حتما ببینید](https://www.youtube.com/watch?v=U2apKy3NO6I)
+- 
 ## 📚 Books sound and Pdf 📖
 -
 ## 🥰🌷🧠Life🙏
