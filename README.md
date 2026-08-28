@@ -1,6 +1,6 @@
 <h1 align='center'>🚀 Education</h1>
 <p align='center'>
-لینک منابع آموزشی
+لینک منابع آموزشی برای کار آموزان شرکت پاس
 </p>
 
 <h1 align='center'><i>شما هم اضافه کنید !</i></h1>
